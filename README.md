@@ -15,7 +15,7 @@
 
 ## About Me
 
-Final-year B.Tech Information Technology student building a career in networking and cloud infrastructure. I completed CCNA and networking training at Bridge Technologies, Chennai, and I practise hands-on in Cisco Packet Tracer, Ubuntu Linux and AWS. My full stack and Python background helps me with automation and troubleshooting.
+B.Tech Information Technology graduate specializing in networking and cloud infrastructure. CCNA-trained, with hands-on experience in routing, switching and network services using Cisco Packet Tracer, plus Linux administration and AWS cloud services. Combines infrastructure skills with a full stack and Python background to automate tasks and troubleshoot efficiently.
 
 - **Career path:** Networking → Linux → AWS Cloud → Docker → CI/CD and DevOps
 - **Open to:** Network Support, Cloud Support, System Administration and DevOps fresher roles
