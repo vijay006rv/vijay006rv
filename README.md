@@ -1,4 +1,12 @@
-<h1 align="center">Vijay R</h1>
+
+<div align="center">
+
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,50:312E81,100:06B6D4&height=220&section=header&text=Vijay.R&fontSize=65&fontColor=FFFFFF&animation=fadeIn&fontAlignY=35&desc=Networking%20%7C%20Server%20%7C%20Linux%20%7C%20Cloud&descSize=16&descAlignY=55" width="100%" alt="Vijay's GitHub banner"/>
+
+</div>
+
+
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=1BA0D7&center=true&vCenter=true&width=700&lines=CCNA+Trained+%7C+Networking+%26+Routing;Linux+%7C+Ubuntu;AWS+Cloud+%7C+EC2+%7C+S3+%7C+VPC+%7C+IAM;Python+Automation+%7C+Full+Stack+Background" alt="Typing animation" />
@@ -60,7 +68,6 @@ B.Tech Information Technology graduate specializing in networking and cloud infr
 <p align="center">
   <img src="https://img.shields.io/badge/Cisco_Packet_Tracer-1BA0D7?style=for-the-badge&logo=cisco&logoColor=white" />
   <img src="https://img.shields.io/badge/VirtualBox-183A61?style=for-the-badge&logo=virtualbox&logoColor=white" />
-  <img src="https://img.shields.io/badge/Kali_Linux-557C94?style=for-the-badge&logo=kalilinux&logoColor=white" />
 </p>
 
 <p align="center">
